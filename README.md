@@ -5,10 +5,10 @@
 - [x] - Multiprocesso para alta velocidade na conexão.
 - [x] - Proteção contra todos os tipos de sniffers.
 - [x] - Classe própria para um input personalizado
-- [] - Upgrade na botnet
-- [] - Upgrade no Scanner
-- [] - Upgrade no GeoIP
-- [] - Upgrade no Chat
+- []  Upgrade na botnet
+- []  Upgrade no Scanner
+- []  Upgrade no GeoIP
+- []  Upgrade no Chat
 
 ### AVISO
 _galera, eu só atualizei o painel de login nada mais!_
